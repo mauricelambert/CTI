@@ -14,10 +14,10 @@ Chafer, REMIX KITTEN, COBALT HICKMAN, G0087, Radio Serpens
 
 ## Tools
 
-1. [Seaweed]()
-2. [CacheMoney]()
-3. [Custom Powbat]()
-4. [Antak]()
+1. Seaweed - Backdoor
+2. CacheMoney - Backdoor
+3. [Custom Powbat](https://apt.etda.or.th/cgi-bin/listgroups.cgi?t=POWBAT)
+4. [Antak](https://www.kitploit.com/2014/06/antak-webshell-webshell-which-utilizes.html)
 5. [ASPXSpy](https://attack.mitre.org/software/S0073)
 6. [Cadelspy](https://attack.mitre.org/software/S0454)
 7. [CrackMapExec](https://attack.mitre.org/software/S0488)
